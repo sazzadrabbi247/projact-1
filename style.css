@@ -1,3 +1,24 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+.top-banner{
+    background-image: url('images/top-banner.png');
+    border: 2px solid black;
+}   
 h1{
-    color: red;
+    font-size: 50px;
+}
+.linehight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 2px;
+
+}
+.half-width img{
+    width: 100%;
+
 }
